@@ -1,3 +1,5 @@
+# add this serverside
+
 <configs>
 
 # insertAfter /vehicles/vehicle[@name='vehicleGyrocopter']/property[@class='seat0']
